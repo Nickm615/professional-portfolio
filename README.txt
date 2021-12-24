@@ -1,31 +1,6 @@
+# Summary
+A collection of my recent projects, all produced as a student at Rice University's 12-week Web Development Bootcamp. This portfolio was created with a template from HTML5up, credited below. The top row of projects displayed are group projects. You can find credits for all team members in the readme file for each project. The second row of projects are homework assignments I completed by myself. This page will be updated over time with further projects as I complete them. Thanks for checking out my work!
 
-
-A spiffy new blog/magazine style responsive site template with a flat/minimal
-design aesthetic.
-
-Demo images* are courtesy of the incredibly talented Janine Pring aka Dreametry Doodle.
-See more of her amazing work (and her awesome t-shirt line) @ dreametrydoodle.com
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Janine's work without her explicit permission!)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
+# Credits
 Dopetrope by HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-	Demo Images:
-		Dreametry Doodle (dreametrydoodle.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
